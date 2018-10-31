@@ -1,0 +1,1 @@
+This is stolen from: https://github.com/tj/mmake, and modified to work better with more complex makefiles
