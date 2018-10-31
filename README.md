@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/paulbes/makedoc.svg?branch=master)](https://travis-ci.com/paulbes/makedoc)
+
 # makedoc
 
 **Note**: The parser component is stolen from: https://github.com/tj/mmake, and modified to work better with more complex makefiles
